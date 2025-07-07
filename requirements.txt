@@ -1,0 +1,13 @@
+flask
+flask-cors
+litellm
+httpx
+pydantic
+python-dotenv
+PyPDF2
+pdfplumber
+python-docx
+chardet
+requests
+beautifulsoup4
+lxml
