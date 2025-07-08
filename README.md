@@ -1,6 +1,6 @@
 ## Text-to-Speech & Podcast Generator
 
-Formatmaskinen är ett kraftfullt verktyg för text-till-tal och podcast-generering som konverterar text, filer och URL:er till högkvalitativt ljud med hjälp av ElevenLabs AI-röster. Verktyget kan också generera naturliga AI-konversationer och podcasts med LiteLLM-integration.
+Formatmaskinen är ett verktyg för text-till-tal och podcast-generering som konverterar text, filer och URL:er till högkvalitativt ljud med hjälp av ElevenLabs AI-röster. Verktyget kan också generera naturliga AI-konversationer och podcasts med LiteLLM-integration.
 
 ### Funktioner
 
